@@ -19,7 +19,8 @@ names = (['Meaghan Altman','joshua vanArsdall', 'Brett Beston', 'Kwame Brown','A
 'Emily Slonecker','John Hummel','Hillary Wehe','John Vervaeke','Melissa Swisher','Bernardo Carducci',
 'Thomaseo Burton','Stephanie Poplock'])
 
-#can also have as dynamic input from user but was just using, just uncomment code snippet below
+#can also have as dynamic input from user just uncomment code snippet below 
+#(actually this isn't finished at the moment, let me know if you think this code would be useful for you and I'll finish it up)
 
 # def dynamic_Names():
 #     Fnames = input("Fname? ")
