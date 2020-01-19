@@ -37,9 +37,9 @@ while x == 0:
 #################################################################################################
 
 for i in names:
-    bro=i.split()
-    bro.reverse()
-    reference = (', '.join(bro))
+    name=i.split()
+    name.reverse()
+    reference = (', '.join(name))
     store_name(reference)
 
 # just a quick console prompt to check whether you want to open the txt file where the names are stored
